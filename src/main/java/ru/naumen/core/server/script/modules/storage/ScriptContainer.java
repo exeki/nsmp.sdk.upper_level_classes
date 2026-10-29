@@ -22,6 +22,7 @@ public class ScriptContainer implements IsSerializable, Serializable {
     }
 
     public void setChecksum(String checksum) {
+
     }
 
     public String toString() {
